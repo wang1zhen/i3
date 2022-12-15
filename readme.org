@@ -1,0 +1,7 @@
+* Installation
+  #+begin_src shell
+    git clone git@github.com:wang1zhen/i3.git
+    cd i3
+    chmod +x install.sh
+    ./install.sh
+  #+end_src
